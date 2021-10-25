@@ -23,7 +23,7 @@
 ?>
 
 
-<h2><?php if ($post) {echo "Os dados do $nome são:";} ?></h2>
+<h2><?php if ($post) {echo "Os dados do aluno $nome são:";} ?></h2>
 
 <h3><?php if ($post) {echo "E-mail: $email";} ?></h3>
 <h3><?php if ($post) {echo "Idade: $idade";} ?></h3>
